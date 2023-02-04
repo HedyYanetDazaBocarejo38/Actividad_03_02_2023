@@ -16,7 +16,7 @@ body{
 .about-section{
     background:url(pic.jpg) no-repeat left;
     background-size:55% ;
-    background-color:#fdfdfd ;
+    background-color:#fdfdfdcb ;
     overflow: hidden;
     padding: 100px ;
 }
@@ -30,7 +30,7 @@ inner-container{
 }
 .inner-container h1{
     margin: bottom 30px; 
-    font-size: 30pxas
+    font-size: 30px
 frot-weignt:900
 
 }
